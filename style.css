@@ -291,7 +291,7 @@ h5 {
 }
 .rest-type-switcher__type-item.rest-type-switcher__is-active {
   display: block;
-  background-image: url(../img/rest-type-family.jpg);
+  background-image: url(../rest-type-family.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 20px;
@@ -367,7 +367,7 @@ h5 {
   transition-duration: 0.5s;
 }
 .rest-type-switcher__options {
-  background-image: url(../img/rest-type-opt-health.png);
+  background-image: url(../rest-type-opt-health.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -407,7 +407,7 @@ h5 {
   transition-duration: 0.2s;
 }
 .reviews {
-  background-image: url(../img/reviews-image.jpg);
+  background-image: url(../reviews-image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 50px;
@@ -520,7 +520,7 @@ h5 {
   position: absolute;
   bottom: 14px;
   left: 23px;
-  background-image: url(../img/spritesheet.png);
+  background-image: url(../spritesheet.png);
   width: 17px;
   height: 17px;
   background-position: -155px 103px;
@@ -545,7 +545,7 @@ h5 {
 .discounts__item {
   padding-top: 158px;
   padding-bottom: 60px;
-  background-image: url(../img/discounts-image-small.jpg);
+  background-image: url(../discounts-image-small.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 -50px;
@@ -631,7 +631,7 @@ h5 {
   content: '';
   position: absolute;
   bottom: 55px;
-  background-image: url(../img/spritesheet.png);
+  background-image: url(../spritesheet.png);
   width: 60px;
   height: 30px;
   background-position: 5px -57px;
@@ -640,7 +640,7 @@ h5 {
   content: '';
   position: absolute;
   bottom: 55px;
-  background-image: url(../img/spritesheet.png);
+  background-image: url(../spritesheet.png);
   width: 60px;
   height: 30px;
   background-position: 253px 55px;
@@ -650,7 +650,7 @@ h5 {
   margin: 0;
 }
 .place {
-  background-image: url(../img/place-choose.jpg);
+  background-image: url(../place-choose.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 50px;
@@ -687,7 +687,7 @@ h5 {
   margin-top: 10px;
 }
 .rooms-promo {
-  background-image: url(../img/rooms-promo-sm.jpg);
+  background-image: url(../rooms-promo-sm.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 67px;
@@ -1032,7 +1032,7 @@ h5 {
 .booking-form__place-hotel:after {
   content: '';
   position: absolute;
-  background-image: url(../img/spritesheet.png);
+  background-image: url(../spritesheet.png);
   width: 84px;
   height: 65px;
   top: 35px;
@@ -1042,7 +1042,7 @@ h5 {
 .booking-form__place-cottage:after {
   content: '';
   position: absolute;
-  background-image: url(../img/spritesheet.png);
+  background-image: url(../spritesheet.png);
   width: 84px;
   height: 65px;
   top: 35px;
@@ -1301,7 +1301,7 @@ h5 {
     margin-left: -12px;
     padding-top: 30px;
     padding-bottom: 140px;
-    background-image: url(../img/rest-type-switcher-promo.jpg);
+    background-image: url(../rest-type-switcher-promo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -1375,7 +1375,7 @@ h5 {
     font-size: 30px;
   }
   .discounts__item {
-    background-image: url(../img/discounts-image-medium.jpg);
+    background-image: url(../discounts-image-medium.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 -100px;
@@ -1426,7 +1426,7 @@ h5 {
     color: #191919;
   }
   .rooms-promo {
-    background-image: url(../img/rooms-promo.jpg);
+    background-image: url(../rooms-promo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 40px;
@@ -1615,7 +1615,7 @@ h5 {
   .booking-form__option-square:before {
     content: '';
     position: absolute;
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     width: 58px;
     height: 48px;
     bottom: 50px;
@@ -1625,7 +1625,7 @@ h5 {
     content: '';
     position: absolute;
     text-align: center;
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     width: 30px;
     height: 48px;
     bottom: 50px;
@@ -1634,7 +1634,7 @@ h5 {
   .booking-form__option-bed:before {
     content: '';
     position: absolute;
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     width: 58px;
     height: 48px;
     bottom: 50px;
@@ -1643,7 +1643,7 @@ h5 {
   .booking-form__option-bathroom:before {
     content: '';
     position: absolute;
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     width: 58px;
     height: 48px;
     bottom: 50px;
@@ -1652,7 +1652,7 @@ h5 {
   .booking-form__option-wi-fi:before {
     content: '';
     position: absolute;
-    background-image: url(../img/spritesheet.png);
+    background-image: url(../spritesheet.png);
     width: 58px;
     height: 48px;
     bottom: 50px;
@@ -1805,7 +1805,7 @@ h5 {
     color: #e85715;
   }
   .rest-type-switcher__type-item.rest-type-switcher__is-active {
-    background-image: url(../img/rest-type-switcher-promo-large.jpg);
+    background-image: url(../rest-type-switcher-promo-large.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -1839,7 +1839,7 @@ h5 {
     margin: 0 auto;
   }
   .discounts__item {
-    background-image: url(../img/discounts-image-big.jpg);
+    background-image: url(../discounts-image-big.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 -180px;
